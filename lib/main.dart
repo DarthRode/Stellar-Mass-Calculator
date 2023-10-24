@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/space.jpg'), // Assurez-vous d'ajouter 'assets/' ici
+            image: AssetImage('assets/space.jpg'),
             fit: BoxFit.cover,
           ),
         ),
